@@ -1,0 +1,5 @@
+{
+  "path": ".",
+  "tag-prefix": "canvas-lti-configuration/",
+  "releaseCommitMessageFormat": "chore: @groton/canvas-lti-configuration@{{currentTag}}"
+}

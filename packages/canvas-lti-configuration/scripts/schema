@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+import fs from 'node:fs';
+import path from 'node:path';
+import z from 'zod';
+import { schema } from '../dist/index.js';
+
+fs.writeFileSync(
+  path.join(import.meta.dirname, '../schema.json'),
+  JSON.stringify(z.toJSONSchema(schema))
+);
