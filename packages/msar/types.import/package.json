@@ -2,10 +2,10 @@
   "name": "@msar/types.import",
   "version": "0.1.4",
   "description": "[`msar`](https://www.npmjs.com/package/msar) TypeScript component: types describing the output of [`canvas-import`](https://www.npmjs.com/package/@msar/canvas-import)",
-  "homepage": "https://github.com/groton-school/canvas-cli/tree/main/packages/msar/types.import#readme",
+  "homepage": "https://github.com/groton-school/canvas/tree/main/packages/msar/types.import#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/groton-school/canvas-cli.git",
+    "url": "https://github.com/groton-school/canvas.git",
     "directory": "packages/msar/types.import"
   },
   "author": {

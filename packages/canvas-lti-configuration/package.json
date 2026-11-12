@@ -2,10 +2,10 @@
   "name": "@groton/canvas-lti-configuration",
   "version": "1.0.0",
   "description": "JSON schema to validate (and Intellisense) Canvas LTI configuration documents",
-  "homepage": "https://github.com/groton-school/canvas-cli/tree/main/packages/canvas-lti-configuration#readme",
+  "homepage": "https://github.com/groton-school/canvas/tree/main/packages/canvas-lti-configuration#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/groton-school/canvas-cli.git",
+    "url": "https://github.com/groton-school/canvas.git",
     "directory": "packages/canvas-lti-configuration"
   },
   "license": "MIT",
